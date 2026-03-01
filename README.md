@@ -61,7 +61,4 @@
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/csmoncef/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Moncef Azzouz's LinkedIn"/></a> <a href="https://moncefaz.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
-<div align="center">
-  <img src="catmouse" alt="Bottom Line" width="100%" />
-</div>
 
